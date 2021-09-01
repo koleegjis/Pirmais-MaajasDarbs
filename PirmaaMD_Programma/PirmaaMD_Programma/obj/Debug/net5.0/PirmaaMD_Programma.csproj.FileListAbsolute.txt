@@ -1,0 +1,16 @@
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\bin\Debug\net5.0\PirmaaMD_Programma.exe
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\bin\Debug\net5.0\PirmaaMD_Programma.deps.json
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\bin\Debug\net5.0\PirmaaMD_Programma.runtimeconfig.json
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\bin\Debug\net5.0\PirmaaMD_Programma.runtimeconfig.dev.json
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\bin\Debug\net5.0\PirmaaMD_Programma.dll
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\bin\Debug\net5.0\ref\PirmaaMD_Programma.dll
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\bin\Debug\net5.0\PirmaaMD_Programma.pdb
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\PirmaaMD_Programma.csproj.AssemblyReference.cache
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\PirmaaMD_Programma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\PirmaaMD_Programma.AssemblyInfoInputs.cache
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\PirmaaMD_Programma.AssemblyInfo.cs
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\PirmaaMD_Programma.csproj.CoreCompileInputs.cache
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\PirmaaMD_Programma.dll
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\ref\PirmaaMD_Programma.dll
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\PirmaaMD_Programma.pdb
+C:\Users\ragin\source\repos\Pirmais-MaajasDarbs\PirmaaMD_Programma\PirmaaMD_Programma\obj\Debug\net5.0\PirmaaMD_Programma.genruntimeconfig.cache

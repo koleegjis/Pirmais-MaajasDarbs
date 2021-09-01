@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PirmaaMD_Programma/1.0.0": {
+        "runtime": {
+          "PirmaaMD_Programma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PirmaaMD_Programma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
